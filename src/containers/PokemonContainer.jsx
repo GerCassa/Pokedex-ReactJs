@@ -1,4 +1,4 @@
-import React from './node_modules/react';
+import React from 'react';
 import AllPokemon from '../Components/AllPokemon';
 import Pokemon from '../Components/Pokemon';
 
