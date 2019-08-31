@@ -1,6 +1,6 @@
-import React from 'react';
-import AllPokemon from './components/AllPokemon';
-import Pokemon from './components/Pokemon';
+import React from './node_modules/react';
+import AllPokemon from '../Components/AllPokemon';
+import Pokemon from '../Components/Pokemon';
 
 class PokemonContainer extends React.Component {
 
