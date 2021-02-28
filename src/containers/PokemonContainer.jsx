@@ -50,7 +50,7 @@ class PokemonContainer extends React.Component {
     return (
       <div>
         <div>
-          <h1 className="title">Pokemon Library</h1>
+          <h1 className="title">Pokedex JS</h1>
         </div>
 
         <div className="pokemon">

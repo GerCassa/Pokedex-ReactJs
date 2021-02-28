@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import PokemonContainer from './containers/PokemonContainer';
+import PokemonContainer from './Containers/PokemonContainer';
 
 class App extends Component {
   render() {
